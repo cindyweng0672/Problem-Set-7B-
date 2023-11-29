@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Problem\ Set\ 7B\n\n\ Cindy\ Weng\n\ Nov.\ 27\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.util.ArrayList\ sieveOfEratosthenes(int)
+comment3.params=n
+comment3.target=void\ goldbachConjecture(int)
+comment4.params=bi1\ bi2
+comment4.target=void\ addingBigInts(java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=bi1\ bi2
+comment5.target=void\ adding(java.util.ArrayList,\ java.util.ArrayList)
+numComments=6
